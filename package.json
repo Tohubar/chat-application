@@ -1,0 +1,19 @@
+{
+  "name": "chat-application",
+  "version": "1.0.0",
+  "description": "creating a chat application using express.js and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tohubar/chat-application.git"
+  },
+  "author": "tohubar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tohubar/chat-application/issues"
+  },
+  "homepage": "https://github.com/Tohubar/chat-application#readme"
+}
